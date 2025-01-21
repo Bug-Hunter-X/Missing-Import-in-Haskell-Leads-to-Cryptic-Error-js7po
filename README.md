@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error where a function is used without importing the necessary module.  The error message can be difficult to understand for those new to Haskell. The solution shows how to fix this with a simple import statement.
